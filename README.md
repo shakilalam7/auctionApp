@@ -1,7 +1,4 @@
-# Template for ECS639U Group Coursework
-
-This template should be used as the starting point for your group coursework in the module ECS639U Web Programming (at Queen Mary University of London). Use Git (github.qmul.ac.uk) to collaborate on the coursework with your group members. Module leader: Paulo Oliva <[p.oliva@qmul.ac.uk](mailto:p.oliva@qmul.ac.uk)>
-
+# ECS639U Group Coursework
 
 **Shakil** Assigned to develop the entire frontend and assist with backend development and testing and implemented Pinia stores for state management, configured Vue Router, set up Tailwind CSS styling, created CSRF utilities, contributed to backend API integration and performed testing of the app. 
 
